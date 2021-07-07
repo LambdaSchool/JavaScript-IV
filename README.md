@@ -1,3 +1,5 @@
+STARTING MVP
+
 # JavaScript IV
 
 This challenge focuses on classes in JavaScript using the new `class` keyword.
@@ -44,8 +46,8 @@ const fred = new Person({
 
 ## `prototype-refactor` - Take existing code and make it modern.
 
-* You're going to work with your prototypes assignment you built out yesterday.
-* `Challenge:` **Convert** all of your constructors into ES6 Classes using the `class` and `extends` keywords. You should be able to run your same logs and they should build out the proper expected behaviors.
+x * You're going to work with your prototypes assignment you built out yesterday.
+x * `Challenge:` **Convert** all of your constructors into ES6 Classes using the `class` and `extends` keywords. You should be able to run your same logs and they should build out the proper expected behaviors.
 
 ## `lambda-classes` - We need a roster of Lambda School personnel. Build it!
 
@@ -67,14 +69,14 @@ const fred = new Instructor({
 });
 ```
 
-#### Person
+#### Person X
 
 * First we need a Person class. This will be our `base-class`
 * Person receives `name` `age` `location` all as props
 * Person receives `speak` as a method.
 * This method logs out a phrase `Hello my name is Fred, I am from Bedrock` where `name` and `location` are the object's own props
 
-#### Instructor
+#### Instructor X
 
 * Now that we have a Person as our base class, we'll build our Instructor class.
 * Instructor uses the same attributes that have been set up by Person
